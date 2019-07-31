@@ -28,8 +28,8 @@ along with Armadito module PDF.  If not, see <http://www.gnu.org/licenses/>.
 #include "armaditopdf/errors.h"
 #include "armaditopdf/log.h"
 #include "armaditopdf/osdeps.h"
-#include <armaditopdf/utils.h>
-#include <armaditopdf/parsing.h>
+#include "armaditopdf/utils.h"
+#include "armaditopdf/parsing.h"
 
 
 #define a6o_pdf_ver "0.12.6"
